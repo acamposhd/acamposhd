@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://albertocampos.vercel.app/](https://albertocampos.vercel.app/)
 
-- 💬 Ask me about **react, javascript, git, mongo, and more**
+- 💬 Ask me about **react, javascript, typescript, git, mongo, and more**
 
 - 📫 How to reach me **albertocamposhdez@hotmail.com**
 
