@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **remix, nest, next and more**
 
-- 👯 I’m looking to collaborate on **Startups**
+- 👯 I’m looking to collaborate on **Educational content**
 
 - 👨‍💻 All of my projects are available at [https://albertocampos.vercel.app/](https://albertocampos.vercel.app/)
 
