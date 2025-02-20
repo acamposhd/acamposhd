@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋, I'm Beto</h1>
 <h3 align="center">A passionate software engineer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acamposhd&label=Profile%20views&color=0e75b6&style=flat" alt="acamposhd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acamposhd" alt="acamposhd" /></a> </p>
-
-- 🔭 I’m currently working at [Svitla](https://svitla.com/) 
+- 🔭 I’m currently collaborating with [Svitla](https://svitla.com/) 
 
 - 🌱 I’m currently learning **remix, nest, next and more**
 
